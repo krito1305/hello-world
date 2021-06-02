@@ -10,5 +10,5 @@ export default StyleSheet.create({
     text:{
         fontSize: 30,
         color: "teal",
-    },
+    }
 });
